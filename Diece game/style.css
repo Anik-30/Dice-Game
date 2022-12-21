@@ -1,0 +1,35 @@
+.header{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    margin: 40px;
+    font-family: 'Stylish', sans-serif;
+}
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+img{
+    width: 75%;
+}
+
+footer{
+    margin-top: 5%;
+    color: cadetblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
